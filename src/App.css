@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.dogcat{
+  display: flex;
+  justify-content: center;
+}
+
+.dog{
+  border:solid 2px blue;
+}
+.cat{
+  border:solid 2px rgb(44, 114, 114);
+}
